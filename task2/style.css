@@ -1,0 +1,20 @@
+body {
+    background: azure;
+    padding-left: 24px;
+}
+
+.command {
+    user-select: none;
+    cursor: pointer;
+    font-size: large;
+}
+
+p {
+    margin-top: 36px;
+}
+
+code {
+    background: #3e3d32;
+    padding: 12px;
+    color: azure;
+}

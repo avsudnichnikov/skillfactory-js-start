@@ -1,0 +1,11 @@
+body {
+    background: #1d1c1c;
+    color: #478947;
+}
+
+p {
+    text-align: center;
+    font-size: 5vh;
+    margin-top: 40vh;
+    user-select: none;
+}
